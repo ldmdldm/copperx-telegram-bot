@@ -18,6 +18,10 @@ export async function initRedisConnection(): Promise<void> {
       
       redisClient = createClient({
         url,
+        socket: {
+          tls: true,
+          rejectUnauthorized: false, // Accept self-signed certificates
+        }
       });
 
       redisClient.on('error', (err) => {
