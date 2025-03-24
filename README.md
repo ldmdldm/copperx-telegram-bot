@@ -14,7 +14,7 @@
 
 ## ✨ Overview
 
-The CopperX Telegram Bot extends the CopperX ecosystem to Telegram, giving users seamless access to their cryptocurrency wallets and financial services directly from their favorite messaging platform. Whether you're checking balances, making transfers, or managing your account, the CopperX bot provides a secure and convenient interface for all your crypto needs.
+The CopperX Telegram Bot extends the CopperX ecosystem to Telegram, giving users access to their cryptocurrency wallets and financial services directly from their favorite messaging platform. If you want to check balances, make transfers or manage your account, the CopperX bot provides a convenient interface for all your crypto needs.
 
 ## 🚀 Features
 
